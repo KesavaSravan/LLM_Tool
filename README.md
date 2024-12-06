@@ -11,14 +11,14 @@ The tool leverages GPT-2 (or any other pre-trained model) to accept a prompt and
 Ensure you have Python 3.7 or higher installed.
 
 ### Step 1: Clone this Repository
-Clone the repository to your local machine:
+Clone the repository to your local machine
 
 ### Step 2: Install Dependencies
-Install the required dependencies using `pip`:
+Install the required dependencies using `pip`
 
 
 ### Step 3: Run the Tool Locally
-Run the Python script `app.py` to launch the Gradio interface:
+Run the Python script `app.py` to launch the Gradio interface
 
 
 
