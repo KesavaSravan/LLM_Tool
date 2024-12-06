@@ -1,2 +1,15 @@
-# LLM_Tool
-This tool leverages Hugging Face's pre-trained language models to generate meaningful responses based on user prompts. It supports various tasks, including general text generation, Q&amp;A, and summarization. The tool can be run locally or deployed to platforms like Hugging Face Spaces for easy access.
+# LLM-Based Tool using Hugging Face Transformers
+
+## Overview
+This tool uses a pre-trained language model from Hugging Face's Transformers library to generate meaningful responses based on user input. You can use this tool for general text generation, Q&A, or summarization.
+
+The tool leverages GPT-2 (or any other pre-trained model) to accept a prompt and generate a relevant response.
+
+## Setting Up and Running the Tool
+
+### Prerequisites
+Ensure you have Python 3.7 or higher installed.
+
+### Step 1: Clone this Repository
+Clone the repository to your local machine:
+
